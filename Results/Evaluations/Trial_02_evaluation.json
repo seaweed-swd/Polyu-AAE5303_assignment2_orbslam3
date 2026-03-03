@@ -1,0 +1,16 @@
+{
+  "ate_mean_m": 2.7502686499743207,
+  "ate_rmse_m": 2.9817488623184953,
+  "ate_std_m": 1.1518891573871455,
+  "completeness_pct": 3.8003171193289345,
+  "delta_m": 10.0,
+  "gt_poses": 19551,
+  "matched_poses": 743,
+  "rpe_rot_drift_deg_per_100m": 124.65009164510089,
+  "rpe_rot_mean_deg": 12.465009164510088,
+  "rpe_rot_rmse_deg": 24.22368712788298,
+  "rpe_trans_drift_m_per_m": 1.5755396061066531,
+  "rpe_trans_mean_m": 15.75539606106653,
+  "rpe_trans_rmse_m": 18.179268852383384,
+  "t_max_diff_s": 0.1
+}

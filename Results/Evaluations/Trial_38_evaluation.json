@@ -1,0 +1,15 @@
+{
+  "rmse_ate": 999.0,
+  "mean_ate": 999.0,
+  "median_ate": 999.0,
+  "std_ate": 999.0,
+  "min_ate": 999.0,
+  "max_ate": 999.0,
+  "rmse_rpe": 999.0,
+  "mean_rpe": 999.0,
+  "median_rpe": 999.0,
+  "std_rpe": 999.0,
+  "min_rpe": 999.0,
+  "max_rpe": 999.0,
+  "note": "Fallback evaluation - Trial failed or timed out"
+}
