@@ -9,7 +9,6 @@
 
 **Automated Hyperparameter Optimization for Monocular Visual Odometry**
 
-*AutoDL Cloud Server Implementation - 37 Systematic Trials*
 
 </div>
 
